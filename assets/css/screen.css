@@ -461,7 +461,7 @@ margin on the iframe, cause it breaks stuff. */
     margin-bottom: 5rem;
     text-align: center;
     color: #fff;
-    background: #0675BA no-repeat center center;
+    background: #13547D no-repeat center center;
     background-size: cover;
 }
 
@@ -486,7 +486,7 @@ margin on the iframe, cause it breaks stuff. */
     font-weight: bold;
     font-family: 'Open Sans', sans-serif;
     text-shadow: 0 1px 6px rgba(0,0,0,0.1);
-    color:#fff076;
+    color:#CAD6DE;
 }
 
 .oops {
@@ -649,6 +649,7 @@ margin on the iframe, cause it breaks stuff. */
 .post-template .post-header {
     padding: 60px 0;
     text-align: center;
+    background: #13547D;
 }
 
 .post-template .blog-title {
@@ -886,7 +887,7 @@ margin on the iframe, cause it breaks stuff. */
     line-height: 1.7em;
     color: #fff;
     text-align: center;
-    background: #6ec6fc;
+    background: #13547D;
 }
 
 .site-footer a {
